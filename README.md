@@ -1,3 +1,5 @@
 # react-todo-list
 
-![alt text](https://github.com/erikluu/react-todo-list/image.jpg?raw=true)
+just some practice
+
+![alt text](https://github.com/erikluu/react-todo-list/blob/main/image.jpg?raw=true)
